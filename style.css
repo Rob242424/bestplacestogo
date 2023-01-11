@@ -1,0 +1,34 @@
+body{background-image: linear-gradient(90deg,CornflowerBlue,DarkSeaGreen,LightSeaGreen,gold,seagreen);}
+h1{text-align:center;font-family: Verdana, Geneva, Tahoma, sans-serif;font-stretch: narrower;
+    font-style: italic;font-style: oblique;text-decoration: underline;
+    text-shadow: forestgreen;color:DarkSlateBlue;}
+div.container{height: 1900px;width:1430px;font-weight: bold;color:lime;
+    accent-color: orange;text-align: center;font-size: larger;}
+.container{height: 1000px;width: 1600px;border: solid 5px blue;background-color:cadetblue;border-radius: 20px;}
+.img{right,height:150px;width:300px;}
+.container{border-left: solid 5px seagreen;}
+.box{float: center;
+width: 200px;
+margin:auto;
+margin-top: 10px;
+padding: 5px;
+border: 10px solid rgb(118, 21, 163);
+height: 200px;
+border-radius: 20px;
+background-color:Lime;
+}
+p{color:black}
+.footer{height: auto;width: auto;border: 6px black;}
+.center{display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+ul{color: black;}
+h2{color:darkblue;}
+footer{color:black;}
+button:hover{background-color: aquamarine;
+}
+button{border-radius:20px;}
+.word{text-align: left;margin-left: 1%;color:darkgreen;}
+.sound{text-align: center;}
